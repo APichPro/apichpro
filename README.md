@@ -5,10 +5,9 @@
   <a href="https://www.linkedin.com/in/aristide-pichereau-b44745180/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=APichPro&style=flat-square&color=blue" alt="" />
 </div>
-<div id="coun" align="center">
-<img src="https://komarev.com/ghpvc/?username=APichPro&style=flat-square&color=blue" alt="" />
-</div>
+ 
 ---
 ### :technologist: About Me :
 

@@ -40,6 +40,9 @@ In addition to my career as a data engineer, I have a keen interest in interface
 ---
 ### :mailbox: Contact Me :
 Email: aristide.pichereau@gmail.com
+
 LinkedIn: ApichPro
+
 Website: ApichPro
+
 Feel free to reach out to discuss collaboration opportunities or if you have any questions about my projects and works!

@@ -11,6 +11,13 @@
 ---
 ### :technologist: About Me :
 
+I have 2 years of experience working on various data engineering projects, my experience includes:
+
+Designing and implementing data pipelines to extract, transform, and load (ETL) data from multiple sources.
+Optimizing database performance and ensuring data quality and integrity.
+Collaborating with cross-functional teams to understand data requirements and deliver actionable insights.
+Exploring new technologies and tools to enhance data processing efficiency and scalability.
+In addition to my career as a data engineer, I have a keen interest in interface development. I believe that the combination of data expertise and intuitive user interfaces is crucial for creating impactful and user-centric data-driven solutions.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -29,3 +36,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vs Code" alt="Vs Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### :Contact Me
+Email: aristide.pichereau@gmail.com
+LinkedIn: ApichPro
+Website: ApichPro
+Feel free to reach out to discuss collaboration opportunities or if you have any questions about my projects and works!

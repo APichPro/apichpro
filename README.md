@@ -38,7 +38,7 @@ In addition to my career as a data engineer, I have a keen interest in interface
 </div>
 
 ---
-### :Contact Me
+### :mailbox: Contact Me :
 Email: aristide.pichereau@gmail.com
 LinkedIn: ApichPro
 Website: ApichPro

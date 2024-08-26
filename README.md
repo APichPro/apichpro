@@ -38,6 +38,7 @@ In addition to my career as a data engineer, I have a keen interest in interface
 ---
 ### :mailbox: Contact Me :
 
+- 07 81 81 93 95
 - [aristide.pichereau@gmail.com](mailto:aristide.pichereau@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/apichereaupro/)
 - [Portfolio](https://apichpro.github.io/portfolio/)

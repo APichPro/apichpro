@@ -1,5 +1,5 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aristide-pichereau-b44745180/">
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/apichereaupro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=APichPro&style=flat-square&color=blue" alt="" height="30"/>
@@ -38,7 +38,7 @@ In addition to my career as a data engineer, I have a keen interest in interface
 ---
 ### :mailbox: Contact Me :
 
-- [aristide.pichereau@gmail.com](aristide.pichereau@gmail.com)
+- [aristide.pichereau@gmail.com](mailto:aristide.pichereau@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/apichereaupro/)
 - [Portfolio](https://apichpro.github.io/portfolio/)
 

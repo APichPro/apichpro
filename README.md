@@ -1,4 +1,4 @@
-Engineer with a strong passion for cross-platform interface development, supported by three years of experience in data engineering. Currently seeking a front-end developer role. Personal experiences in React development and a strong interest in the state of the art<br>
+Engineer with a strong passion for cross-platform interface development, supported by three years of experience in data engineering. Currently seeking a full-stack developer role. Personal experiences in React development and a strong interest in the state of the art<br>
 
 📬 Contact me:️<br>
 📧Mail: herzaristide@outlook.com<br>
